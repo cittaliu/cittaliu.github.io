@@ -124,7 +124,7 @@ p {
 
 .about-me-div {
 	display: inline-block;
-	min-height: 250px;
+	min-height: 50px;
 	padding-top: 15px;
 	margin: 0 auto;
 }
@@ -141,8 +141,6 @@ p {
 #vertical-headshot {
 	max-width: 100%;
 	max-height: 100%;
-  border: 5px solid white;
-  border-radius: 20px;
 	box-shadow: 5px 5px 5px #888888;
 
 }
@@ -203,13 +201,13 @@ p {
   	margin: 0 auto;
   	border-spacing: 0 20px;
   }
-  #mineralchemy-description {
+  #project-description {
   	display: table-footer-group;
   }
-  #mineralchemy-title {
+  #project-title {
   	display: table-header-group;
   }
-  #mineralchemy-description h4 {
+  #project-description h4 {
   	padding-left: 15px;
   	padding-right: 15px;
   }
@@ -264,14 +262,6 @@ p {
 
 #github-icon {
 	height: 80px;
-}
-
-#twitter-icon {
-	height: 55px;
-}
-
-#medium-icon {
-	height: 55px;
 }
 
 table {
@@ -332,11 +322,4 @@ table {
 		padding: 5px;
 	}
 
-	#twitter-icon {
-		padding: 10px;
-	}
-
-	#medium-icon {
-		padding: 10px;
-	}
 }
