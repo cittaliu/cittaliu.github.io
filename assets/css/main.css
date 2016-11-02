@@ -189,7 +189,9 @@ p {
 
 #project-link {
 	color: black;
+
 }
+
 
 @media screen and (max-width: 1200px) {
    #about-me-wrapper {
@@ -214,6 +216,7 @@ p {
   	padding-right: 15px;
   }
 }
+
 
 #question {
 	width: 280px;
